@@ -7,7 +7,9 @@ entre les ondes incidents. Nous avons les assomptions suivantes:
 - Les amplitudes E~01 et E~02 sont orientées selon y
 - Les vecteurs d’ondes k~1 et k~2 sont orientées dans le plan xz
 - Les fréquences sont identiques: ω1 = ω2 = ω
+
 Les questions que nous allons répondre sont les suivantes:
+
 - À partir de l’équation (3.24) des notes de cours, trouver l’expression
 mathématique pour l’intensité d’interaction I(x, y, z = 0) ainsi que
 celle pour Γ.
